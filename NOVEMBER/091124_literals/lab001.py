@@ -1,0 +1,7 @@
+num1=int(input("enter the no1"))
+num2=int(input("enter the no2"))
+num3=int(input("enter the no3"))
+print("sum is -",num1+num2+num3)
+print("sub is -",num1-num2-num3)
+print("mul is -",num1*num2*num3)
+print("div is -",num1/num2/num3)

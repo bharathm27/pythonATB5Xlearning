@@ -1,0 +1,5 @@
+a=int(input("enter the divedend"))
+b=int(input("enter the divisor"))
+print("mul is ===",a*b)
+print("quotient is ===",a//b)
+print("remainder is ===",a%b)
